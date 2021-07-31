@@ -1,0 +1,26 @@
+#menu,#content,#footer
+ {
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: aquamarine;
+}
+
+#content {
+    width: auto;
+    height: auto;
+    
+    background-color: bisque;
+}
+
+#footer {
+    width: auto;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    background-color: darkgoldenrod;
+
+}
